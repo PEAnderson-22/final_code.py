@@ -1,9 +1,9 @@
 from tkinter import *  #Tkinter is needed to give me the tools to create my GUI.
-from tkinter import messagebox
+from tkinter import messagebox #Allows the error message to appear, if the user does something wrong.
 
 history = [] #This will store every equation into a list
 
-#These will give each one of my buttons the ability to actually type the number you press.
+#These will give each one of my buttons the ability to actually type the number or operation you press.
 def press_7(): entry.insert(END, "7")
 def press_8(): entry.insert(END, "8")
 def press_9(): entry.insert(END, "9")
@@ -65,4 +65,4 @@ Button(root, text="0", width=5, height=2, command=press_0).grid(row=4, column=0)
 Button(root, text="=", width=5, height=2, command=handle_equals).grid(row=4, column=2)
 Button(root, text="+", width=5, height=2, command=press_plus).grid(row=4, column=3)
 #Basically what all of those are doing is alligning the numbers and operations(remembered the word finally). I did have to look up how to allign them properly, but once I got one, the rest were pretty easy to do.The first GUI lab we did was helpful for this part.
-root.mainloop()
+root.mainloop() #This will keep the window open and keep it running until the user closes it.
