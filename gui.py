@@ -36,12 +36,12 @@ def handle_equals(): #This will define my equal button.
         entry.delete(0, END) #This will clear the entry box
 
 
-root = Tk()
-root.title("Calculator")
-root.geometry("300x500")   #This will give it a title and dimensions.
+root = Tk() #This will create the window that shows the calculator
+root.title("Calculator") #This will give it a title
+root.geometry("300x500")   #This will give it dimensions.
 
-entry = Entry(root, font=("Arial", 24))
-entry.grid(row=0, column=0, columnspan=4) #These 2 lines will make the entry box where everything will appear.
+entry = Entry(root, font=("Arial", 24)) 
+entry.grid(row=0, column=0, columnspan=4) #These 2 lines will make the entry box where everything will appear, giving it dimensions and the font and size it will display everything in.
 
 
 
