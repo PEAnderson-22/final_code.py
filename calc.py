@@ -2,7 +2,7 @@
 class Calculator:
     def addition(self,a,b):
         if a <=0 or b<=0: #This is making it so the user can't use negative number, and I will put this on all of them.
-            raise ValueError("Your number cannot be negative.")
+            raise ValueError("Your number cannot be negative.") #This gives the user a message telling them they can't do a negative.
         return a+b
     def subtraction(self,a,b):
         if a <=0 or b<=0:
@@ -19,4 +19,7 @@ class Calculator:
             raise ValueError("Can't divide by 0")#This will make it so the user will know that they can;t do that.
         return a/b
 #What I have just done is add in all my formulas. These will take the numbers the user selects and do whichever one they choose.
+
+if __name__=="__main__":
+    
 
