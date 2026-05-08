@@ -3,7 +3,7 @@ Author: Pinager Anderson
 Class: Intermediate Programming
 Teach: Sebastian Talamantes
 Date Started: 5/4/26
-Date Finished: 
+Date Finished: 5/8/26
 
 Overview:
     This project is a basic calculator built with Python and Tkinter.  
