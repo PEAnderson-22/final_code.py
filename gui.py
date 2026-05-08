@@ -6,7 +6,7 @@ history = [] #This will store every equation into a list
 #These will give each one of my buttons the ability to actually type the number or operation you press.
 def press_7(): entry.insert(END, "7")
 def press_8(): entry.insert(END, "8")
-def press_9(): entry.insert(END, "9")
+def press_9(): entry.insert(END, "9")  #END just means it's putting it at the end of the text box. That way when you press 2 buttons it does it in the correct order.
 def press_div(): entry.insert(END, "/")
 
 def press_4(): entry.insert(END, "4")
@@ -21,7 +21,7 @@ def press_minus(): entry.insert(END, "-")
 
 def press_0(): entry.insert(END, "0")
 def press_plus(): entry.insert(END, "+")
-
+#I did look up a way to condense all these so it didn't take up half the program. I didn't know you could keep it on the same line and it would still function correctly.
 #Now my gui will actually display your numbers.
 
 def handle_equals(): #This will define my equal button.

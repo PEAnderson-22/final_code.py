@@ -1,0 +1,20 @@
+An explanation on my ai usage.
+
+I wouldn't say I used major AI usage, like having it write my entire program, but I did use it as 
+a tool to help me get going in the right direction. There were a couple things that were confusing
+in my code, things I didn't even use in past projects or labs that I would need for this. Google can 
+be a little unhelpful at times, so I turned to Copilot. Copilot is actually the same AI that GitHub uses, 
+so that was nice. But anyways, the main thing I used it for was to help me with alligning my buttons and 
+helping me create my text box, or entry box. With the buttons, I told the AI what I was doing with a basic 
+explanation, and showed it the code I had so far. Instead of saying make this code for me and then copy and
+pasting, I put in the prompt: Give me a step by step instruction on how to do this, and explain why I do what
+I'm doing with the code. Of course it gave me the code for every button, but I took only the first one, and
+then did the rest myself. That is a good example of using AI as a tool and not the solution I'd say. Now with the 
+entry or text box, I got a little confused and couldn't figure out how to make it work. So I do a very 
+similar prompt into AI. It's literally the exact same as asking a teacher for help on a question. They don't 
+just give you the answer straight up, they help you work towards it, and that's what I like to do with my prompts, 
+that way I'm still actually learning. I also ask that it keeps it within the range of an "intermediate programmer", like 
+the class name, so that it doesn't start throwing random things that I haven't seen before into my code. But 
+if it does, an explanation does come with it. I used it in a minimal way so that it didn't take over my whole
+program, and this way it still feels like ME, not like the AI bot that wrote it.
+

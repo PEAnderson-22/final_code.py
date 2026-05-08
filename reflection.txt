@@ -21,4 +21,15 @@ the = button. So I had to def that on too, but this time it had to be  different
 into the history list I created (Which btw I forgot to mention was added because the code needed a list of some kind). After I 
 did that I ran the program to check if it actually worked, and finally, it did. This was definitely the most challenging code 
 I've done yet, but thanks to the resources I had I was able to get it done, and make it look, at least in my opinion, pretty 
-clean. I'm pretty satisfied with how my code turned out, and I feel somewhat certain that it is up to standard.
+clean. I'm pretty satisfied with how my code turned out, and I feel somewhat certain that it is up to standard. 
+
+I think I learned a lot from this final project. I definitely learned how to problem solve, especially when it came
+to my buttons. I learned how to give a whole lot of buttons different functions, ones that were mostly the same,
+but others that would have more to them, like the equals and operations. Another thing I learned is how useful of a 
+tool AI can be when it comes to programming. Last semester in my beginner programming class, I fell behind and used AI 
+in a more, cheating way I guess you could say, on my final project. It definitely didn't end well for me, and I almost 
+failed. So maybe you would think that I woudln't use it all on this final, but I think it's good that I used it. This time
+however, I used it in a way that actually taught me, and I didn't just copy and paste it. I think it's use should be heavily encouraged
+in the future of coding, it was extremely helpful and taught me a lot about my code. But other than those things, I really 
+think the main thing I was able to learn about was problem solving, somthing that's definitely gonna need to happen a lot when it 
+comes to programming. 
